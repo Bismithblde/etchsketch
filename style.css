@@ -1,0 +1,18 @@
+tbody {
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+    
+}
+table {
+    border-spacing: 0;
+}
+td, th {
+    padding: 0;
+  }
+
+
+
+.drag {
+
+ }
